@@ -1,0 +1,7 @@
+C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\integer-changer-console-app\integer-changer\integer-changer\bin\Debug\integer-changer.exe.config
+C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\integer-changer-console-app\integer-changer\integer-changer\bin\Debug\integer-changer.exe
+C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\integer-changer-console-app\integer-changer\integer-changer\bin\Debug\integer-changer.pdb
+C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\integer-changer-console-app\integer-changer\integer-changer\obj\Debug\integer-changer.csproj.CoreCompileInputs.cache
+C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\integer-changer-console-app\integer-changer\integer-changer\obj\Debug\integer-changer.exe
+C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\integer-changer-console-app\integer-changer\integer-changer\obj\Debug\integer-changer.pdb
+C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\integer-changer-console-app\integer-changer\integer-changer\obj\Debug\integer-changer.csprojAssemblyReference.cache
